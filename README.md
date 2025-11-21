@@ -1,39 +1,30 @@
-##Jaqueline Alves de Souza - Biomedical Researcher & Data Scientist
+# 👩‍🔬 Jaqueline Alves de Souza 
+### Biomedical Researcher & Data Science Enthusiast
 
-#Professional Overview
-PhD Candidate in Biosciences specializing in Human and Molecular Genetics at UNESP, with extensive research experience in cancer biology and neuroscience. Currently developing innovative miRNA-based therapies for Triple-Negative Breast Cancer while expanding expertise in data science and health management.
+## 🎯 Professional Overview
 
-##🔬 Research Focus
+PhD Candidate in Biosciences at UNESP, specializing in **Human and Molecular Genetics**. Developing innovative miRNA-based therapies for **Triple-Negative Breast Cancer** while expanding expertise in **data science** and **health management**.
 
-##Current PhD Research
-"miR-34a and Extracellular Vesicles in Triple-Negative Breast Cancer Metastasis Control"
+## 🔬 Research Focus
 
-Developing targeted therapy using miRNA and extracellular vesicles
+### 🧬 Current PhD Research
+**"miR-34a and Extracellular Vesicles in Triple-Negative Breast Cancer Metastasis Control"**
+- Targeted therapy using miRNA and extracellular vesicles
+- Epithelial-mesenchymal transition mechanisms
+- EGFR-targeted peptide modifications
 
-Investigating epithelial-mesenchymal transition mechanisms
+### 🎓 Academic Background
+- **PhD in Biosciences** (in progress) - UNESP/IBILCE
+- **Master's in Physiological Sciences** - UFSCar/UNESP  
+- **Bachelor's & Teaching Degree** - Biological Sciences, UNESP
 
-Exploring EGFR-targeted peptide modifications for specific drug delivery
+### 🔧 Technical Skills
+- Molecular Biology & Cell Culture
+- Animal Model Research
+- Data Analysis & Visualization
+- Scientific Writing
 
-##Academic Background
-PhD in Biosciences (in progress) - UNESP/IBILCE | Human & Molecular Genetics
-
-Master's in Physiological Sciences - UFSCar/UNESP | Neurobiology of anxious behavior
-
-Bachelor's & Teaching Degree in Biological Sciences - UNESP
-
-##Laboratory Competencies
-Animal model research and ethical practices
-
-Molecular biology techniques
-
-Statistical analysis and data visualization
-
-Scientific writing and publication
-
-##Connect & Collaborate
-Lattes CV: 7053104853561402
-
-ORCID: 0009-0007-0437-0614
-
-LinkedIn: Jaqueline Alves de Souza
-
+## 📞 Connect With Me
+- **Lattes CV**: [7053104853561402](http://lattes.cnpq.br/7053104853561402)
+- **ORCID**: [0009-0007-0437-0614](https://orcid.org/0009-0007-0437-0614)
+- **LinkedIn**: [Jaqueline Alves de Souza](https://linkedin.com/in/jaqueline-alves-de-souza-a521741b1/)
