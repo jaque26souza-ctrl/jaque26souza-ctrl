@@ -1,5 +1,5 @@
 # 👩‍🔬 Jaqueline Alves de Souza 
-### Biomedical Researcher & Data Science Enthusiast
+### Biologist Researcher & Data Science Enthusiast
 
 ## 🎯 Professional Overview
 
